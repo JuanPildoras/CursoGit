@@ -26,7 +26,7 @@
 
 + [capitulo 11 - Final. Eclipse con Git y GitHub](https://www.youtube.com/watch?v=TpB6rk7fKvQ)
 
-##### por Juan Gomez - PildorasInformaticas
+##### por Juan Gomez - [@PildorasInformaticas](https://www.pildorasinformaticas.es/)
 
 [![GitHub](https://img.shields.io/github/stars/JuanPildoras/CursoGit.svg?style=social)](https://github.com/JuanPildoras/CursoGit)
 [![GitHub](https://img.shields.io/github/forks/JuanPildoras/CursoGit.svg?style=social)](https://github.com/JuanPildoras/CursoGit)
